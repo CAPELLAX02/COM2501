@@ -1,0 +1,13 @@
+venv
+.venv
+*venv
+*.venv
+/venv
+/venv/bin
+*/venv
+/venv/**
+./venv/**
+*./venv/**
+/home/capellax/Desktop/CENG/2. Sınıf/1. Dönem (Güz)/COM2501 (Scientific Programming)/venv/include/python3.12
+/home/capellax/Desktop/CENG/2. Sınıf/1. Dönem (Güz)/COM2501 (Scientific Programming)/homeworks/venv
+homeworks/venv
